@@ -1,0 +1,16 @@
+{
+  "id": "328787dd-a0a8-462e-b1e5-48a5d5c51b69",
+  "inputs": {
+    "storageGb": 0,
+    "monthlyGets": 0,
+    "monthlyPuts": 0,
+    "versioning": true,
+    "lifecycleDays": 0,
+    "bucketName": "editor-validation-demo-390844768325",
+    "region": "us-west-2",
+    "accountId": "390844768325",
+    "environment": "development",
+    "owner": "platform"
+  },
+  "sourceSha": "a7d8fd760b4a14d5617d2855154988f474483047ee615a6783c1768dd044de92"
+}
