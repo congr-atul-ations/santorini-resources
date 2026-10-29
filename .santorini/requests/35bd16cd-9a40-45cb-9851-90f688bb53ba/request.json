@@ -1,0 +1,16 @@
+{
+  "id": "35bd16cd-9a40-45cb-9851-90f688bb53ba",
+  "inputs": {
+    "storageGb": 100,
+    "monthlyGets": 100000,
+    "monthlyPuts": 10000,
+    "versioning": true,
+    "lifecycleDays": 0,
+    "region": "us-east-1",
+    "bucketName": "deepak-1",
+    "accountId": "390844768325",
+    "environment": "development",
+    "owner": "deepak"
+  },
+  "sourceSha": "8e05aa2ea37eeac7be1315ee13d2eab9ded0cb173ae53ee7619cdfd9413af057"
+}
