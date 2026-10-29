@@ -1,0 +1,16 @@
+{
+  "id": "176eae50-0860-48e2-b3d5-6001d5cf127d",
+  "inputs": {
+    "storageGb": 100,
+    "monthlyGets": 100000,
+    "monthlyPuts": 10000,
+    "versioning": true,
+    "lifecycleDays": 0,
+    "bucketName": "atul-55",
+    "region": "us-east-1",
+    "environment": "development",
+    "accountId": "390844768325",
+    "owner": "t1"
+  },
+  "sourceSha": "63c5e5e1b23f4043a8d0cda92c787b4ebc926d1b047070aeb024d87154db08a1"
+}
