@@ -1,0 +1,16 @@
+{
+  "id": "c4bf95f4-2f9b-4f73-9bf8-3f76eda4c909",
+  "inputs": {
+    "storageGb": 100,
+    "monthlyGets": 100000,
+    "monthlyPuts": 10000,
+    "versioning": true,
+    "lifecycleDays": 0,
+    "bucketName": "ahead-demo-390844768325-1029",
+    "accountId": "390844768325",
+    "region": "us-west-2",
+    "environment": "development",
+    "owner": "platform"
+  },
+  "sourceSha": "3f9b22c1ec64ec1d414fff506a2b68827c976b56f9eefb9a514b7d8477387bfc"
+}
