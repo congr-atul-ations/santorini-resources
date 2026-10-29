@@ -1,0 +1,16 @@
+{
+  "id": "6cc106ad-4744-4d86-be35-ea71f582a1b4",
+  "inputs": {
+    "storageGb": 100,
+    "monthlyGets": 100000,
+    "monthlyPuts": 10000,
+    "versioning": true,
+    "lifecycleDays": 0,
+    "bucketName": "atul-4",
+    "region": "us-east-1",
+    "accountId": "390844768325",
+    "environment": "staging",
+    "owner": "team4"
+  },
+  "sourceSha": "db308780835fd7b2d95e602884149adde5a92ec0188827462c3c20d61c39c4a6"
+}
